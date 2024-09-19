@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/22a46f9637d54d71b504a72ff740d87e/artifacts
+end_time: 1726746511040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22a46f9637d54d71b504a72ff740d87e
+run_name: wistful-finch-876
+run_uuid: 22a46f9637d54d71b504a72ff740d87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726746469133
+status: 3
+tags: []
+user_id: rabeb.kaabi

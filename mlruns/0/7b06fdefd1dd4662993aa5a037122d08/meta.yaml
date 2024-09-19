@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/7b06fdefd1dd4662993aa5a037122d08/artifacts
+end_time: 1726746429856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b06fdefd1dd4662993aa5a037122d08
+run_name: redolent-stork-836
+run_uuid: 7b06fdefd1dd4662993aa5a037122d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726746391226
+status: 3
+tags: []
+user_id: rabeb.kaabi

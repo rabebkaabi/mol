@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/c6b98600d3c34986a4e574f42621fe0b/artifacts
+end_time: 1726745991365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6b98600d3c34986a4e574f42621fe0b
+run_name: silent-yak-462
+run_uuid: c6b98600d3c34986a4e574f42621fe0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745953241
+status: 3
+tags: []
+user_id: rabeb.kaabi

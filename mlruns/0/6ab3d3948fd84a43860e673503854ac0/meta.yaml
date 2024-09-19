@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/6ab3d3948fd84a43860e673503854ac0/artifacts
+end_time: 1726745838992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ab3d3948fd84a43860e673503854ac0
+run_name: nervous-hen-446
+run_uuid: 6ab3d3948fd84a43860e673503854ac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745801614
+status: 3
+tags: []
+user_id: rabeb.kaabi

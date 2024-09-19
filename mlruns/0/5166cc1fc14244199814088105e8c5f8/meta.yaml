@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/5166cc1fc14244199814088105e8c5f8/artifacts
+end_time: 1726749474857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5166cc1fc14244199814088105e8c5f8
+run_name: loud-sponge-771
+run_uuid: 5166cc1fc14244199814088105e8c5f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726749371174
+status: 3
+tags: []
+user_id: rabeb.kaabi

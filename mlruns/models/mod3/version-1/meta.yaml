@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1726748880206
+current_stage: None
+description: ''
+last_updated_timestamp: 1726748880206
+name: mod3
+run_id: 9e94792b2a4842ceb3baa81ef987b0b0
+run_link: ''
+source: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/9e94792b2a4842ceb3baa81ef987b0b0/artifacts/model3_P9
+status: READY
+status_message: null
+storage_location: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/9e94792b2a4842ceb3baa81ef987b0b0/artifacts/model3_P9
+user_id: null
+version: 1

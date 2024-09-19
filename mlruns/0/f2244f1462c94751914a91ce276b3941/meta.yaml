@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/f2244f1462c94751914a91ce276b3941/artifacts
+end_time: 1726746390973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2244f1462c94751914a91ce276b3941
+run_name: unequaled-frog-190
+run_uuid: f2244f1462c94751914a91ce276b3941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726746350515
+status: 3
+tags: []
+user_id: rabeb.kaabi

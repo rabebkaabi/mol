@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/29c72123d83c4dfcaf89bd77b11e809f/artifacts
+end_time: 1726746554753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29c72123d83c4dfcaf89bd77b11e809f
+run_name: victorious-doe-506
+run_uuid: 29c72123d83c4dfcaf89bd77b11e809f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726746511247
+status: 3
+tags: []
+user_id: rabeb.kaabi

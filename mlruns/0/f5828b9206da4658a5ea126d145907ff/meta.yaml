@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/f5828b9206da4658a5ea126d145907ff/artifacts
+end_time: 1726746593048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5828b9206da4658a5ea126d145907ff
+run_name: legendary-crab-407
+run_uuid: f5828b9206da4658a5ea126d145907ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726746554991
+status: 3
+tags: []
+user_id: rabeb.kaabi

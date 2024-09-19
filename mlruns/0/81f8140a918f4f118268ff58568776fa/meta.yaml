@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/81f8140a918f4f118268ff58568776fa/artifacts
+end_time: 1726745801368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81f8140a918f4f118268ff58568776fa
+run_name: aged-toad-533
+run_uuid: 81f8140a918f4f118268ff58568776fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745762972
+status: 3
+tags: []
+user_id: rabeb.kaabi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/b2ced1939122409687eeb57e288d23f4/artifacts
+end_time: 1726746184847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2ced1939122409687eeb57e288d23f4
+run_name: bald-mule-758
+run_uuid: b2ced1939122409687eeb57e288d23f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726746125405
+status: 3
+tags: []
+user_id: rabeb.kaabi

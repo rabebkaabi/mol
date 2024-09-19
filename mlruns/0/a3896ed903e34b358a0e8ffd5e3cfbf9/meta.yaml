@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/a3896ed903e34b358a0e8ffd5e3cfbf9/artifacts
+end_time: 1726745692850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3896ed903e34b358a0e8ffd5e3cfbf9
+run_name: unique-slug-52
+run_uuid: a3896ed903e34b358a0e8ffd5e3cfbf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745592747
+status: 3
+tags: []
+user_id: rabeb.kaabi

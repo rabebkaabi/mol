@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1726750486252
+current_stage: None
+description: ''
+last_updated_timestamp: 1726750486252
+name: MOD1
+run_id: cdc3ad2b9d2247bd9f73f4a90c4274b9
+run_link: ''
+source: models:/MOD1/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/cdc3ad2b9d2247bd9f73f4a90c4274b9/artifacts/model1
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/11455805a6134359a9982cc540f96d3e/artifacts
+end_time: 1726745591556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11455805a6134359a9982cc540f96d3e
+run_name: nervous-shrimp-374
+run_uuid: 11455805a6134359a9982cc540f96d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745531399
+status: 3
+tags: []
+user_id: rabeb.kaabi

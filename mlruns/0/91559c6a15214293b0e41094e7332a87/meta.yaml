@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/91559c6a15214293b0e41094e7332a87/artifacts
+end_time: 1726745915634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91559c6a15214293b0e41094e7332a87
+run_name: skittish-elk-403
+run_uuid: 91559c6a15214293b0e41094e7332a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745877626
+status: 3
+tags: []
+user_id: rabeb.kaabi

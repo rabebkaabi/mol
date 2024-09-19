@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/920825c2d4a349aead19c302eb42ab94/artifacts
+end_time: 1726749152117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 920825c2d4a349aead19c302eb42ab94
+run_name: carefree-panda-229
+run_uuid: 920825c2d4a349aead19c302eb42ab94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726749091394
+status: 3
+tags: []
+user_id: rabeb.kaabi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/2e70229cc725489089084bc0ccee1004/artifacts
+end_time: 1726745877406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e70229cc725489089084bc0ccee1004
+run_name: smiling-ox-527
+run_uuid: 2e70229cc725489089084bc0ccee1004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745839221
+status: 3
+tags: []
+user_id: rabeb.kaabi

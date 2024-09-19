@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/17c4a949bd8348e49d87e234b0a4b8b3/artifacts
+end_time: 1726749258158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17c4a949bd8348e49d87e234b0a4b8b3
+run_name: handsome-koi-630
+run_uuid: 17c4a949bd8348e49d87e234b0a4b8b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726749153379
+status: 3
+tags: []
+user_id: rabeb.kaabi

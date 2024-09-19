@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/0e374d87af824d51a633552239816f0d/artifacts
+end_time: 1726746067204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e374d87af824d51a633552239816f0d
+run_name: receptive-bass-26
+run_uuid: 0e374d87af824d51a633552239816f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726746029391
+status: 3
+tags: []
+user_id: rabeb.kaabi
