@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/c90057bdb0d3417ca47bef67e610ff9a/artifacts
+end_time: 1727354572253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90057bdb0d3417ca47bef67e610ff9a
+run_name: gentle-lark-485
+run_uuid: c90057bdb0d3417ca47bef67e610ff9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727354539837
+status: 3
+tags: []
+user_id: rabeb.kaabi

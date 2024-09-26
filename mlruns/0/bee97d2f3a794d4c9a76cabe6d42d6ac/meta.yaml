@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/bee97d2f3a794d4c9a76cabe6d42d6ac/artifacts
+end_time: 1727354756858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bee97d2f3a794d4c9a76cabe6d42d6ac
+run_name: righteous-stork-146
+run_uuid: bee97d2f3a794d4c9a76cabe6d42d6ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727354739884
+status: 3
+tags: []
+user_id: rabeb.kaabi

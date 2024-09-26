@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/a6070eb51db24132935e8c323c6bba3c/artifacts
+end_time: 1727354798355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6070eb51db24132935e8c323c6bba3c
+run_name: hilarious-stoat-522
+run_uuid: a6070eb51db24132935e8c323c6bba3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727354780769
+status: 3
+tags: []
+user_id: rabeb.kaabi
