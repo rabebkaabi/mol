@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rabeb.kaabi/Desktop/Molecule/MoleculePrediction-master/myflaskapp/mlruns/0/e81e8b46185a43b9adc4b2d4bdf39f03/artifacts
+end_time: 1727380511530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e81e8b46185a43b9adc4b2d4bdf39f03
+run_name: youthful-carp-393
+run_uuid: e81e8b46185a43b9adc4b2d4bdf39f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727380469741
+status: 3
+tags: []
+user_id: rabeb.kaabi
