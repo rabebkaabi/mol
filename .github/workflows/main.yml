@@ -1,0 +1,25 @@
+version: 2.1
+
+jobs:
+  test:
+    docker:
+      - image: circleci/python:3.8  # Choisis l'image Docker appropriée
+    steps:
+      - checkout  # Récupère le code de ton dépôt GitHub
+      
+      - run:
+          name: Install dependencies
+          command: |
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt  # Assure-toi que requirements.txt contient toutes les dépendances
+      
+      - run:
+          name: Run unit tests
+          command: |
+            python -m unittest discover  # Exécute les tests unitaires
+
+workflows:
+  version: 2
+  test:
+    jobs:
+      - test
